@@ -3,22 +3,22 @@
 	url = git@github.com:b00lduck/raspberry-datalogger-compose.git
 
 [submodule "raspberry-datalogger-acquisition"]
-        path = raspberry-datalogger-acquisition
+        path = gopath/src/github.com/b00lduck/raspberry-datalogger-acquisition
         url = git@github.com:b00lduck/raspberry-datalogger-acquisition.git
 
 [submodule "raspberry-datalogger-dataservice-client"]
-        path = raspberry-datalogger-dataservice-client
+        path = gopath/src/github.com/b00lduck/raspberry-datalogger-dataservice-client
         url = git@github.com:b00lduck/raspberry-datalogger-dataservice-client.git
 
 [submodule "raspberry-datalogger-dataservice-server"]
-        path = raspberry-datalogger-dataservice-server
+        path = gopath/src/github.com/b00lduck/raspberry-datalogger-dataservice-server
         url = git@github.com:b00lduck/raspberry-datalogger-dataservice-server.git
 
 [submodule "raspberry-datalogger-display"]
-        path = raspberry-datalogger-display
+        path = gopath/src/github.com/b00lduck/raspberry-datalogger-display
         url = git@github.com:b00lduck/raspberry-datalogger-display.git
 
 [submodule "raspberry-datalogger-serial"]
-        path = raspberry-datalogger-serial
+        path = gopath/src/github.com/b00lduck/raspberry-datalogger-serial
         url = git@github.com:b00lduck/raspberry-datalogger-serial.git
 
