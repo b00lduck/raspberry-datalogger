@@ -25,3 +25,6 @@
 [submodule "gopath/src/github.com/b00lduck/raspberry-datalogger-temperature"]
 	path = gopath/src/github.com/b00lduck/raspberry-datalogger-temperature
 	url = git@github.com:b00lduck/raspberry-datalogger-temperature.git
+[submodule "vcontrold-docker"]
+	path = vcontrold-docker
+	url = git@github.com:b00lduck/vcontrold-docker.git
