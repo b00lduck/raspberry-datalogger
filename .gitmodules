@@ -31,3 +31,6 @@
 [submodule "rpi-golang-1.7"]
 	path = rpi-golang-1.7
 	url = git@github.com:b00lduck/rpi-golang-1.7.git
+[submodule "rpi-influxdb"]
+	path = rpi-influxdb
+	url = git@github.com:b00lduck/rpi-influxdb.git
