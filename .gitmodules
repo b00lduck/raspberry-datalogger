@@ -28,3 +28,6 @@
 [submodule "vcontrold-docker"]
 	path = vcontrold-docker
 	url = git@github.com:b00lduck/vcontrold-docker.git
+[submodule "rpi-golang-1.7"]
+	path = rpi-golang-1.7
+	url = git@github.com:b00lduck/rpi-golang-1.7.git
