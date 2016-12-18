@@ -34,3 +34,6 @@
 [submodule "rpi-influxdb"]
 	path = rpi-influxdb
 	url = git@github.com:b00lduck/rpi-influxdb.git
+[submodule "raspberry-datalogger-influx-migration"]
+	path = raspberry-datalogger-influx-migration
+	url = git@github.com:b00lduck/raspberry-datalogger-influx-migration.git
