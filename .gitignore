@@ -1,1 +1,3 @@
 .idea
+gopath/src/github.com/*
+!gopath/src/github.com/b00lduck*
