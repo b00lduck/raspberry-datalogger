@@ -41,3 +41,6 @@
 [submodule "raspberry-datalogger-influx-migration"]
 	path = gopath/src/github.com/b00lduck/raspberry-datalogger-influx-migration
 	url = git@github.com:b00lduck/raspberry-datalogger-influx-migration.git
+[submodule "gopath/src/github.com/b00lduck/raspberry-datalogger-vcontrol"]
+	path = gopath/src/github.com/b00lduck/raspberry-datalogger-vcontrol
+	url = git@github.com:b00lduck/raspberry-datalogger-vcontrol.git
